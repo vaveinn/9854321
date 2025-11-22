@@ -54,7 +54,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "投稿邮箱",
-			icon: "material-icon-theme:email", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-solid:envelope", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "mailto:accoreo@outlook.com",
