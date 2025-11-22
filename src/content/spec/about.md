@@ -1,7 +1,7 @@
 # About 河北科技学院
 [河北科技学院官网入口](https://www.hbkjxy.edu.cn)
 
-{:target="_blank"}
+::link{url="https://www.hbkjxy.edu.cn" title="河北科技学院" description="官网"}
 
 
 > ### 河北科技学院历史介绍
