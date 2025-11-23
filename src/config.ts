@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "河北科技学院网宣部",
-	subtitle: "河北科技学院网宣部",
+	title: "Jeehren'Blog",
+	subtitle: "分享Jee的事情。",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 255, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -49,11 +49,11 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "河北科技学院",
-	bio: "分享河北科技学院那些事。",
+	name: "Jeehren",
+	bio: "25级电气工程及其自动化的苦逼大学生。",
 	links: [
 		{
-			name: "投稿邮箱",
+			name: "邮箱",
 			icon: "fa6-solid:envelope", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
